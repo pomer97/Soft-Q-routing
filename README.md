@@ -1,3 +1,29 @@
+# Instructions
+ 
+make sure to use python 3.9
+
+To install or update the required libraries, run:
+
+```bash
+pip install -U -r requirements.txt
+```
+
+This installs all packages from `requirements.txt` and updates them to the latest allowed versions.
+
+If Jupyter is not installed, install it with:
+
+```bash
+pip install jupyter
+```
+
+Start the notebook server and open the `run this soft_q_vs_q.ipynb` file you want to work with:
+
+```bash
+jupyter notebook
+```
+
+
+
 # Routing-In-IAB-Networks
 This repository contains the implementation details of the paper - 
 Multi-Agent Reinforcement Learning for Network-Routing in Integrated Access Backhaul Networks
