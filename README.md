@@ -12,15 +12,8 @@ This installs all packages from `requirements.txt` and updates them to the lates
 
 If Jupyter is not installed, install it with:
 
-```bash
-pip install jupyter
-```
 
-Start the notebook server and open the `run this soft_q_vs_q.ipynb` file you want to work with:
-
-```bash
-jupyter notebook
-```
+Start the notebook server and open the `experiment_softq_vs_q.py` file you want to work with:
 
 
 
